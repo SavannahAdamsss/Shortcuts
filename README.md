@@ -1,5 +1,6 @@
  #  Shortcuts
 
+Tab multiple lines back html            Shift+Tab
 Open/Search for a file	                CMD+T
 Create a new file	                    CMD+N
 Save a file	                            CMD+S
